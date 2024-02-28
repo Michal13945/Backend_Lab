@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+C:\Users\Adrian\Desktop\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
